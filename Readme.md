@@ -1,8 +1,7 @@
 #To do
-services: haircuts, dog walks, pet boarding/sitting
-Shop: dog food, cat food
-about
-contact
+fix contacts
+
+catalogue: center images
 
 site address: https://idanprz.github.io/PetStore/
 
